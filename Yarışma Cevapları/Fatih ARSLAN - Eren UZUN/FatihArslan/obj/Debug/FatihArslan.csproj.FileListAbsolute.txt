@@ -1,0 +1,8 @@
+C:\Users\fatih\source\repos\FatihArslan\FatihArslan\bin\Debug\FatihArslan.exe.config
+C:\Users\fatih\source\repos\FatihArslan\FatihArslan\bin\Debug\FatihArslan.exe
+C:\Users\fatih\source\repos\FatihArslan\FatihArslan\bin\Debug\FatihArslan.pdb
+C:\Users\fatih\source\repos\FatihArslan\FatihArslan\obj\Debug\FatihArslan.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\FatihArslan\FatihArslan\obj\Debug\FatihArslan.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\source\repos\FatihArslan\FatihArslan\obj\Debug\FatihArslan.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\FatihArslan\FatihArslan\obj\Debug\FatihArslan.exe
+C:\Users\fatih\source\repos\FatihArslan\FatihArslan\obj\Debug\FatihArslan.pdb

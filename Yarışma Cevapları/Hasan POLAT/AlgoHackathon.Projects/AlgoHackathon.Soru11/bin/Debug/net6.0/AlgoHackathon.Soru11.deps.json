@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AlgoHackathon.Soru11/1.0.0": {
+        "runtime": {
+          "AlgoHackathon.Soru11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgoHackathon.Soru11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

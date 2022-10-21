@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666360436 source:c:\users\fahri\source\codeblocks\soru10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

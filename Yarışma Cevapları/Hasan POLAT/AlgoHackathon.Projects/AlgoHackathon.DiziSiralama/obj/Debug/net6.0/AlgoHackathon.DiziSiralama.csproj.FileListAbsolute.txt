@@ -1,0 +1,15 @@
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\bin\Debug\net6.0\AlgoHackathon.DiziSiralama.exe
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\bin\Debug\net6.0\AlgoHackathon.DiziSiralama.deps.json
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\bin\Debug\net6.0\AlgoHackathon.DiziSiralama.runtimeconfig.json
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\bin\Debug\net6.0\AlgoHackathon.DiziSiralama.dll
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\bin\Debug\net6.0\AlgoHackathon.DiziSiralama.pdb
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\obj\Debug\net6.0\AlgoHackathon.DiziSiralama.csproj.AssemblyReference.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\obj\Debug\net6.0\AlgoHackathon.DiziSiralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\obj\Debug\net6.0\AlgoHackathon.DiziSiralama.AssemblyInfoInputs.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\obj\Debug\net6.0\AlgoHackathon.DiziSiralama.AssemblyInfo.cs
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\obj\Debug\net6.0\AlgoHackathon.DiziSiralama.csproj.CoreCompileInputs.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\obj\Debug\net6.0\AlgoHackathon.DiziSiralama.dll
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\obj\Debug\net6.0\refint\AlgoHackathon.DiziSiralama.dll
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\obj\Debug\net6.0\AlgoHackathon.DiziSiralama.pdb
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\obj\Debug\net6.0\AlgoHackathon.DiziSiralama.genruntimeconfig.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.DiziSiralama\obj\Debug\net6.0\ref\AlgoHackathon.DiziSiralama.dll

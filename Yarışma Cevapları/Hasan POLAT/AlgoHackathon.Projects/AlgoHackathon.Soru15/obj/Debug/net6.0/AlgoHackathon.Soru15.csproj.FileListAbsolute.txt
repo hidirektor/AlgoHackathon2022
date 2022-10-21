@@ -1,0 +1,15 @@
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\bin\Debug\net6.0\AlgoHackathon.Soru15.exe
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\bin\Debug\net6.0\AlgoHackathon.Soru15.deps.json
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\bin\Debug\net6.0\AlgoHackathon.Soru15.runtimeconfig.json
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\bin\Debug\net6.0\AlgoHackathon.Soru15.dll
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\bin\Debug\net6.0\AlgoHackathon.Soru15.pdb
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\obj\Debug\net6.0\AlgoHackathon.Soru15.csproj.AssemblyReference.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\obj\Debug\net6.0\AlgoHackathon.Soru15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\obj\Debug\net6.0\AlgoHackathon.Soru15.AssemblyInfoInputs.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\obj\Debug\net6.0\AlgoHackathon.Soru15.AssemblyInfo.cs
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\obj\Debug\net6.0\AlgoHackathon.Soru15.csproj.CoreCompileInputs.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\obj\Debug\net6.0\AlgoHackathon.Soru15.dll
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\obj\Debug\net6.0\refint\AlgoHackathon.Soru15.dll
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\obj\Debug\net6.0\AlgoHackathon.Soru15.pdb
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\obj\Debug\net6.0\AlgoHackathon.Soru15.genruntimeconfig.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.Soru15\obj\Debug\net6.0\ref\AlgoHackathon.Soru15.dll

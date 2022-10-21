@@ -1,0 +1,15 @@
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\bin\Debug\net6.0\AlgoHackathon.Soru3.exe
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\bin\Debug\net6.0\AlgoHackathon.Soru3.deps.json
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\bin\Debug\net6.0\AlgoHackathon.Soru3.runtimeconfig.json
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\bin\Debug\net6.0\AlgoHackathon.Soru3.dll
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\bin\Debug\net6.0\AlgoHackathon.Soru3.pdb
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\obj\Debug\net6.0\AlgoHackathon.Soru3.csproj.AssemblyReference.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\obj\Debug\net6.0\AlgoHackathon.Soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\obj\Debug\net6.0\AlgoHackathon.Soru3.AssemblyInfoInputs.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\obj\Debug\net6.0\AlgoHackathon.Soru3.AssemblyInfo.cs
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\obj\Debug\net6.0\AlgoHackathon.Soru3.csproj.CoreCompileInputs.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\obj\Debug\net6.0\AlgoHackathon.Soru3.dll
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\obj\Debug\net6.0\refint\AlgoHackathon.Soru3.dll
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\obj\Debug\net6.0\AlgoHackathon.Soru3.pdb
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\obj\Debug\net6.0\AlgoHackathon.Soru3.genruntimeconfig.cache
+C:\Users\hsnap\Desktop\HASANPOLAT\AlgoHackathon.Projects\AlgoHackathon.PalindromSayi\obj\Debug\net6.0\ref\AlgoHackathon.Soru3.dll

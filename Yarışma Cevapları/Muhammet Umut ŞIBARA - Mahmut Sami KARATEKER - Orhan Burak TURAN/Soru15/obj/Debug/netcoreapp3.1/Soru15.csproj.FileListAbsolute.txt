@@ -1,0 +1,14 @@
+C:\Users\mrdrz\source\repos\Soru15\bin\Debug\netcoreapp3.1\Soru15.exe
+C:\Users\mrdrz\source\repos\Soru15\bin\Debug\netcoreapp3.1\Soru15.deps.json
+C:\Users\mrdrz\source\repos\Soru15\bin\Debug\netcoreapp3.1\Soru15.runtimeconfig.json
+C:\Users\mrdrz\source\repos\Soru15\bin\Debug\netcoreapp3.1\Soru15.runtimeconfig.dev.json
+C:\Users\mrdrz\source\repos\Soru15\bin\Debug\netcoreapp3.1\Soru15.dll
+C:\Users\mrdrz\source\repos\Soru15\bin\Debug\netcoreapp3.1\Soru15.pdb
+C:\Users\mrdrz\source\repos\Soru15\obj\Debug\netcoreapp3.1\Soru15.csproj.AssemblyReference.cache
+C:\Users\mrdrz\source\repos\Soru15\obj\Debug\netcoreapp3.1\Soru15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrdrz\source\repos\Soru15\obj\Debug\netcoreapp3.1\Soru15.AssemblyInfoInputs.cache
+C:\Users\mrdrz\source\repos\Soru15\obj\Debug\netcoreapp3.1\Soru15.AssemblyInfo.cs
+C:\Users\mrdrz\source\repos\Soru15\obj\Debug\netcoreapp3.1\Soru15.csproj.CoreCompileInputs.cache
+C:\Users\mrdrz\source\repos\Soru15\obj\Debug\netcoreapp3.1\Soru15.dll
+C:\Users\mrdrz\source\repos\Soru15\obj\Debug\netcoreapp3.1\Soru15.pdb
+C:\Users\mrdrz\source\repos\Soru15\obj\Debug\netcoreapp3.1\Soru15.genruntimeconfig.cache

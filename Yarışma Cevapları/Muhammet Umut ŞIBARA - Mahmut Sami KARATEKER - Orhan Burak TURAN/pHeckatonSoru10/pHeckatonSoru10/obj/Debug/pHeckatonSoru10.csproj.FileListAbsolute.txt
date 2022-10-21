@@ -1,0 +1,8 @@
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru10\pHeckatonSoru10\bin\Debug\pHeckatonSoru10.exe.config
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru10\pHeckatonSoru10\bin\Debug\pHeckatonSoru10.exe
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru10\pHeckatonSoru10\bin\Debug\pHeckatonSoru10.pdb
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru10\pHeckatonSoru10\obj\Debug\pHeckatonSoru10.csproj.AssemblyReference.cache
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru10\pHeckatonSoru10\obj\Debug\pHeckatonSoru10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru10\pHeckatonSoru10\obj\Debug\pHeckatonSoru10.csproj.CoreCompileInputs.cache
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru10\pHeckatonSoru10\obj\Debug\pHeckatonSoru10.exe
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru10\pHeckatonSoru10\obj\Debug\pHeckatonSoru10.pdb

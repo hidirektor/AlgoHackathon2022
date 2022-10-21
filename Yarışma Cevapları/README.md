@@ -26,5 +26,5 @@
 | Sinan Kocagöz     | X       | Diskalifiye      | X    |
 | Elber Bildik   | X     | Diskalifiye    | X    |
 | Ege Samur     | X       | Diskalifiye      | X    |
-# Katılım Sağlamayanlar: Diskalifiye
-# Bitirmeyip Çıkanlar: Tamamlayamadı
+:warning: **Diskalifiye**: Hackathon'a katılım sağlamayanlara atanan durumdur.
+:warning: **Tamamlayamadı**: Hackathon sorularının tamamını çözmeyip erken bırakanlara atanan durumdur.

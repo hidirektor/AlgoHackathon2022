@@ -1,0 +1,16 @@
+D:\FOR THE GAME MAKING\DocumentsForGame\VisualProject\pHeckatonSoru2\pHeckatonSoru2\bin\Debug\pHeckatonSoru2.exe.config
+D:\FOR THE GAME MAKING\DocumentsForGame\VisualProject\pHeckatonSoru2\pHeckatonSoru2\bin\Debug\pHeckatonSoru2.exe
+D:\FOR THE GAME MAKING\DocumentsForGame\VisualProject\pHeckatonSoru2\pHeckatonSoru2\bin\Debug\pHeckatonSoru2.pdb
+D:\FOR THE GAME MAKING\DocumentsForGame\VisualProject\pHeckatonSoru2\pHeckatonSoru2\obj\Debug\pHeckatonSoru2.csproj.AssemblyReference.cache
+D:\FOR THE GAME MAKING\DocumentsForGame\VisualProject\pHeckatonSoru2\pHeckatonSoru2\obj\Debug\pHeckatonSoru2.csproj.SuggestedBindingRedirects.cache
+D:\FOR THE GAME MAKING\DocumentsForGame\VisualProject\pHeckatonSoru2\pHeckatonSoru2\obj\Debug\pHeckatonSoru2.csproj.CoreCompileInputs.cache
+D:\FOR THE GAME MAKING\DocumentsForGame\VisualProject\pHeckatonSoru2\pHeckatonSoru2\obj\Debug\pHeckatonSoru2.exe
+D:\FOR THE GAME MAKING\DocumentsForGame\VisualProject\pHeckatonSoru2\pHeckatonSoru2\obj\Debug\pHeckatonSoru2.pdb
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru2\pHeckatonSoru2\bin\Debug\pHeckatonSoru2.exe.config
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru2\pHeckatonSoru2\bin\Debug\pHeckatonSoru2.exe
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru2\pHeckatonSoru2\bin\Debug\pHeckatonSoru2.pdb
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru2\pHeckatonSoru2\obj\Debug\pHeckatonSoru2.csproj.AssemblyReference.cache
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru2\pHeckatonSoru2\obj\Debug\pHeckatonSoru2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru2\pHeckatonSoru2\obj\Debug\pHeckatonSoru2.csproj.CoreCompileInputs.cache
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru2\pHeckatonSoru2\obj\Debug\pHeckatonSoru2.exe
+C:\Users\Sami KARATEKER\Desktop\heckaton projeckt\pHeckatonSoru2\pHeckatonSoru2\obj\Debug\pHeckatonSoru2.pdb
