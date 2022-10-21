@@ -1,0 +1,7 @@
+C:\Users\husey\source\repos\soru15\soru15\bin\Debug\soru15.exe.config
+C:\Users\husey\source\repos\soru15\soru15\bin\Debug\soru15.exe
+C:\Users\husey\source\repos\soru15\soru15\bin\Debug\soru15.pdb
+C:\Users\husey\source\repos\soru15\soru15\obj\Debug\soru15.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\soru15\soru15\obj\Debug\soru15.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\soru15\soru15\obj\Debug\soru15.exe
+C:\Users\husey\source\repos\soru15\soru15\obj\Debug\soru15.pdb
