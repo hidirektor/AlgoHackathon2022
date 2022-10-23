@@ -1,7 +1,7 @@
 # AlgoHackathon - ScoreBoard
 | Yarışmacı | Takım Arkadaşları | Tamamlama Süresi | Puan |
 | :---         |     :---:      |          ---: |     :---:      |
-| :crown: Fatih Arslan   | Eren Uzun     | 4 Saat 8 Dakika    | 145    |
+| :crown: Fatih Arslan   | :crown: Eren Uzun     | 4 Saat 8 Dakika    | 145    |
 | Hasan Polat   | X     | 3 Saat 5 Dakika    | 140    |
 | Ersin Deniz   | X     | 4 Saat 36 Dakika    | 135    |
 | Güney Kaya   | Eren Uzun     | 5 Saat    | 135    |
