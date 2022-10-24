@@ -4,7 +4,7 @@
 | :crown: Fatih Arslan   | :crown: Eren Uzun     | 4 Saat 8 Dakika    | 145    |
 | Hasan Polat   | X     | 3 Saat 5 Dakika    | 140    |
 | Ersin Deniz   | X     | 4 Saat 36 Dakika    | 140    |
-| Güney Kaya   | Eren Uzun     | 5 Saat    | 135    |
+| Güney Kaya   | X     | 5 Saat    | 135    |
 | Berk Sedat Kabadayı   | Ali İhsan     | 3 Saat 25 Dakika    | 125    |
 | Abdulkadir Yıldırım   | Hüseyin Özcan     | 4 Saat 32 Dakika    | 125    |
 | Hüseyin Bora İçöz   | RamazanSemih Uğur    | 5 Saat 11 Dakika    | 115    |
